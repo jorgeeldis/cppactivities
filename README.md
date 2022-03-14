@@ -2,7 +2,7 @@
 
 > More than 30 different simple college cpp programs to start learning more about the language (it's in spanish)
 
-![header](https://raw.githubusercontent.com/jorgeeldis/robostoa/main/robostoaheader.png)
+![header](https://raw.githubusercontent.com/jorgeeldis/cppactivities/main/cppheader.png)
 
 ## Requirements
 
